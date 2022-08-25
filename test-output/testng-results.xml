@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="66405" started-at="2020-05-04T16:02:40Z" finished-at="2020-05-04T16:03:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="66405" started-at="2020-05-04T16:02:40Z" finished-at="2020-05-04T16:03:46Z">
+      <class name="pages.Datatest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:pages.Datatest@4667ae56]" name="setUp" is-config="true" duration-ms="12580" started-at="2020-05-04T16:02:40Z" finished-at="2020-05-04T16:02:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="logindatatest(java.lang.String, java.lang.String)[pri:0, instance:pages.Datatest@4667ae56]" name="logindatatest" duration-ms="1567" started-at="2020-05-04T16:02:53Z" data-provider="getlogindata" finished-at="2020-05-04T16:02:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abcdef]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Temp@2020]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logindatatest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:pages.Datatest@4667ae56]" name="teardown" is-config="true" duration-ms="617" started-at="2020-05-04T16:02:55Z" finished-at="2020-05-04T16:02:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:pages.Datatest@4667ae56]" name="setUp" is-config="true" duration-ms="10823" started-at="2020-05-04T16:02:55Z" finished-at="2020-05-04T16:03:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="logindatatest(java.lang.String, java.lang.String)[pri:0, instance:pages.Datatest@4667ae56]" name="logindatatest" duration-ms="1004" started-at="2020-05-04T16:03:06Z" data-provider="getlogindata" finished-at="2020-05-04T16:03:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[gcreddy]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abcde@321]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logindatatest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:pages.Datatest@4667ae56]" name="teardown" is-config="true" duration-ms="617" started-at="2020-05-04T16:03:07Z" finished-at="2020-05-04T16:03:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:pages.Datatest@4667ae56]" name="setUp" is-config="true" duration-ms="10664" started-at="2020-05-04T16:03:08Z" finished-at="2020-05-04T16:03:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="logindatatest(java.lang.String, java.lang.String)[pri:0, instance:pages.Datatest@4667ae56]" name="logindatatest" duration-ms="2288" started-at="2020-05-04T16:03:18Z" data-provider="getlogindata" finished-at="2020-05-04T16:03:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abcdef]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abcde@321]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logindatatest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:pages.Datatest@4667ae56]" name="teardown" is-config="true" duration-ms="625" started-at="2020-05-04T16:03:21Z" finished-at="2020-05-04T16:03:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:pages.Datatest@4667ae56]" name="setUp" is-config="true" duration-ms="10828" started-at="2020-05-04T16:03:21Z" finished-at="2020-05-04T16:03:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="logindatatest(java.lang.String, java.lang.String)[pri:0, instance:pages.Datatest@4667ae56]" name="logindatatest" duration-ms="990" started-at="2020-05-04T16:03:32Z" data-provider="getlogindata" finished-at="2020-05-04T16:03:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[gcreddy]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abcde@321]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logindatatest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:pages.Datatest@4667ae56]" name="teardown" is-config="true" duration-ms="621" started-at="2020-05-04T16:03:33Z" finished-at="2020-05-04T16:03:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:pages.Datatest@4667ae56]" name="setUp" is-config="true" duration-ms="11140" started-at="2020-05-04T16:03:34Z" finished-at="2020-05-04T16:03:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="logindatatest(java.lang.String, java.lang.String)[pri:0, instance:pages.Datatest@4667ae56]" name="logindatatest" duration-ms="913" started-at="2020-05-04T16:03:45Z" data-provider="getlogindata" finished-at="2020-05-04T16:03:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[gcreddy]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Temp@2020]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logindatatest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:pages.Datatest@4667ae56]" name="teardown" is-config="true" duration-ms="617" started-at="2020-05-04T16:03:46Z" finished-at="2020-05-04T16:03:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- pages.Datatest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
